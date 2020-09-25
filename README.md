@@ -1,4 +1,4 @@
-# GIT-Doc
+# GIT Documentation
 
 ![Scheme of Github Structure](https://bluuweb.github.io/tutorial-github/img/git-flujo.png)
 
