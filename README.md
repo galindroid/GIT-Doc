@@ -51,3 +51,7 @@ Use `git reset --hard [commit code]`. To get the code, use `git log --oneline`.
 ## Branches
 
 When we create a repository, we create a main branch called *master*. The whole project is meant to be changed here, but we can create secondry branches if we need to do so, this is useful when we want to develop new charateristics to our project knowing that we won't affect to our colleagues's codes.
+
+To create a new branch, type `git branch [new branch name]`.
+
+When we have a complex project, we'll probably have multiple branches. Use `git branch`to get info about which branch you're using. 
