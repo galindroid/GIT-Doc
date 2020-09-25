@@ -55,3 +55,5 @@ When we create a repository, we create a main branch called *master*. The whole 
 To create a new branch, type `git branch [new branch name]`.
 
 When we have a complex project, we'll probably have multiple branches. Use `git branch` to get info about which branch you're using. 
+
+In this cases, we are, obviously, able to move between branches. In order to do so, type `git checkout [destiny branch name]`.
