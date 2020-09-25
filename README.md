@@ -47,3 +47,7 @@ Basically, a **commit** is a photo of our files and the hierarchy of our project
 
 ***I've fucked up my project, I need backup!***<br>
 Use `git reset --hard [commit code]`. To get the code, use `git log --oneline`.
+
+## Branches
+
+When we create a repository, we create a main branch called *master*. The whole project is meant to be changed here, but we can create secondry branches if we need to do so, this is useful when we want to develop new charateristics to our project knowing that we won't affect to our colleagues's codes.
