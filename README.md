@@ -32,7 +32,7 @@ In our local repository, our files must be in 3 different stages before getting 
 * Staging area
 * Local repository
 
-***What's Local repository?*** <br>
+***What's a Local repository?*** <br>
 Easy. When we type `git init`, git creates a hidden folder inside our working directory. We mustn't edit this repository. The files that get uploaded in it, will be the ones that we are going to send to Git to make a copy of it in the cloud.
 
 When the files are in the working directory, Git doesn't "listen" to them, but it will know if they are being edited, so we must send them to the staging area, using `git add [file name / . (every file)]`.
