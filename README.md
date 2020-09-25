@@ -41,4 +41,4 @@ Finally, to get our files uploaded or updated in our Git repository, use `git pu
 
 Basically, a **commit** is a photo of our files and the hierarchy of our project. Every commit will be saved in our local repository. If we need to check them, we can type `git log --oneline`, this will show us a summary of each one of them. Each commit will have a code before it's message.
 
-*I've messed my project, I need backup!*<br>
+*I've fucked up my project, I need backup!*<br>
