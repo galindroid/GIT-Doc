@@ -1,5 +1,8 @@
 # GIT Documentation
 
+* [First of all (GitHub Structure)](https://github.com/galindroid/GIT-Doc#first-of-all-github-structure)
+* [Commit](https://github.com/galindroid/GIT-Doc#commits)
+
 ![Scheme of Github Structure](https://bluuweb.github.io/tutorial-github/img/git-flujo.png)
 
 There are two ways of creating a __repository__ using Git.
