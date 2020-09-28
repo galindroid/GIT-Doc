@@ -6,8 +6,6 @@
 * [Branches](https://github.com/galindroid/GIT-Doc#branches)
 * [Tags](https://github.com/galindroid/GIT-Doc#tags)
 
-![Scheme of Github Structure](https://bluuweb.github.io/tutorial-github/img/git-flujo.png)
-
 There are two ways of creating a __repository__ using Git.
 
 * Using `git clone [URL repository]` (This will create a *new* folder, using the nae of the Github repository.)
