@@ -3,6 +3,8 @@
 **Guide**
 * [First of all (GitHub Structure)](https://github.com/galindroid/GIT-Doc#first-of-all-github-structure)
 * [Commit](https://github.com/galindroid/GIT-Doc#commits)
+* [Branches](https://github.com/galindroid/GIT-Doc#branches)
+* [Tags](https://github.com/galindroid/GIT-Doc#tags)
 
 ![Scheme of Github Structure](https://bluuweb.github.io/tutorial-github/img/git-flujo.png)
 
