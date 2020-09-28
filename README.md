@@ -62,9 +62,9 @@ When we are finished making changes and we want to add them to our master branch
 
 If we don't want a previously created branch, we can delete it by typing `git branch -d [branchName]`
 
-**Tip**<br>
+***Tip***<br>
 We can also create *AND* travel to that new branch using `git checkout -b [new branchName]`
 
 ## Tags
 
-Tags create new versions to the project. 
+Tags create new versions to get, in the future, released. Also, we can set a text to each tag, so we can be able to recognize them.
