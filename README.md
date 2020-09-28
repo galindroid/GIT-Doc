@@ -68,3 +68,8 @@ We can also create *AND* travel to that new branch using `git checkout -b [new b
 ## Tags
 
 Tags create new versions to get, in the future, released. Also, we can set a text to each tag, so we can be able to recognize them.
+
+* `git tag versionAlpha -m [tagName]` to create a new tag.
+* `git tag` lists every tag we have created.
+* `git tag -d [tagName]` deletes the specified tag.
+* `git tag -a [tagName] [commitCode] -m [tagMessage]` creates a tag from an existing commit and adds a message to it.
