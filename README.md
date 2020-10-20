@@ -5,6 +5,7 @@
 * [Commit](https://github.com/galindroid/GIT-Doc#commits)
 * [Branches](https://github.com/galindroid/GIT-Doc#branches)
 * [Tags](https://github.com/galindroid/GIT-Doc#tags)
+* [Git Fork]()
 
 There are two ways of creating a __repository__ using Git.
 
@@ -73,3 +74,7 @@ Tags create new versions to get, in the future, released. Also, we can set a tex
 * `git tag` lists every tag we have created.
 * `git tag -d [tagName]` deletes the specified tag.
 * `git tag -a [tagName] [commitCode] -m [tagMessage]` creates a tag from an existing commit and adds a message to it.
+
+## Git Fork
+
+To make everything simpler. A colleague of mine once showed me this fantastic desktop app we can use to avoid all these commands. The program is called ***Git Fork***. You can download it here: [Git Fork](https://git-fork.com/). Also, to know how to use Fork, you'll need this guide to know what each button does.
