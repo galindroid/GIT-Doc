@@ -5,7 +5,7 @@
 * [Commit](https://github.com/galindroid/GIT-Doc#commits)
 * [Branches](https://github.com/galindroid/GIT-Doc#branches)
 * [Tags](https://github.com/galindroid/GIT-Doc#tags)
-* [Git Fork]()
+* [Git Fork](https://github.com/galindroid/GIT-Doc#git-fork)
 
 There are two ways of creating a __repository__ using Git.
 
