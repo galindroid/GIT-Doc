@@ -78,3 +78,9 @@ Tags create new versions to get, in the future, released. Also, we can set a tex
 ## Git Fork
 
 To make everything simpler. A colleague of mine once showed me this fantastic desktop app we can use to avoid all these commands. The program is called ***Git Fork***. You can download it here: [Git Fork](https://git-fork.com/). Also, to know how to use Fork, you'll need this guide to know what each button does.
+
+## Git Stash
+
+We use `git stash` as a *Cut and Pasteish* command. This command is very useful when we want to push our changes but, when we type `git status` we get a response telling us that our repository is some commits behind the remote one, which means that we haven't downloaded our partner's changes in our branch.
+
+To use this command, we must add the files we want to *stash* (`git add .`). After this, we use `git stash`, this cuts the selected files. After doing this, we can do a checkout to another branch or pull the current one. When updated, use `git stash pop` to *paste* the previously selected files into that branch. Now, if we want to commit ths changes --> `Add > Commit > Push`
